@@ -90,7 +90,7 @@ A full-stack educational technology platform built with the MERN stack, enabling
 
 ## 🎬 Demo
 
-🔗 **Live Demo**: [Add your deployed URL here]
+🔗 **Live Demo**: https://courageous-shortbread-7b78e0.netlify.app/
 
 ### Test Credentials
 ```
@@ -196,8 +196,8 @@ npm run dev
 ```
 
 ### Access Application
-- Frontend: http://localhost:3000
-- Backend: http://localhost:4000
+- Frontend: https://courageous-shortbread-7b78e0.netlify.app/
+- Backend: https://learnedge-backend-rn1w.onrender.com
 
 ---
 
